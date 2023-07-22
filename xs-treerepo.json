@@ -1,0 +1,26 @@
+{
+  "format": {
+    "type": "treerepo-tools",
+    "version": "1.1.0"
+  },
+  "groups": {
+    "solenopsys": [
+      {
+        "name": "vite-micro-federation",
+        "directory": "vite-micro-federation",
+        "repository": "https://github.com/solenopsys/vite-micro-federation",
+        "tags": [
+          "full"
+        ]
+      },
+      {
+        "name": "xs",
+        "directory": "xs",
+        "repository": "https://github.com/solenopsys/xs",
+        "tags": [
+          "full"
+        ]
+      }
+    ]
+  }
+}
